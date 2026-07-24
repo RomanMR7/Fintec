@@ -8,8 +8,11 @@ tags: [home, index, memory]
 
 Это хранилище собрано из доступного контекста прошлых разговоров.
 
+> Новый ChatGPT, Codex или другой AI должен сначала открыть [[CHATGPT_START_HERE]].
+
 ## Основные разделы
 
+- [[CHATGPT_START_HERE|Подключение нового AI]]
 - [[brain/Memory Index|Индекс памяти]]
 - [[brain/North Star|Основные цели и направления]]
 - [[projects/AnchorPay|AnchorPay]]
